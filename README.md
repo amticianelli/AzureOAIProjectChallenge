@@ -4,7 +4,7 @@
 * Create a simple application for Azure Open AI to automate the QnA of a mock company.
 
 ## What to consider when creating an Azure Open AI solution
-![Image Description](https://github.com/amticianelli/dpsMetrics/blob/main/img/image.png)
+![Image Description](https://github.com/amticianelli/AzureOAIProjectChallenge/blob/main/img/image.png)
 
 ## 1.0 Business description
 ```
