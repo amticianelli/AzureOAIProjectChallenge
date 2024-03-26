@@ -50,9 +50,12 @@ Techtronics Inc. is a leading innovator in the smart home technology space. Our 
     * Use the customer data to answer the questions based on his data only
     * After succeeding in answering the questions, use Copilot Designer to create a logo to the company and change it inside the chatbot
 
-    ### 4.2 Extra goals
+    ### 4.2 Extra
     * The customer wants another solution to have their internal procedures answered in the same way, how can they add all of this to a private network? Show him using the main environment for this exercise as an example.
     * Publish the application in Azure Apps
 
-    ## 4.3 Epic goals
+    ## 4.3 Epic
     * Publish the application to Kubernetes creating a manifest from scratch
+
+## 5.0 Sending the result
+* Send a short video navigating to the chatbot application
