@@ -4,7 +4,7 @@
 * Create a simple application for Azure Open AI to automate the QnA of a mock company.
 
 ## What to consider when creating an Azure Open AI solution
-![Image Description](https://github.com/amticianelli/AzureOAIProjectChallenge/blob/main/img/image.png)
+![Image Description](https://github.com/amticianelli/AzureOAIProjectChallenge/blob/main/img/image_projectreq.png)
 
 ## 1.0 Business description
 ### Techtronics Inc.
@@ -46,6 +46,8 @@ Techtronics Inc. is a leading innovator in the smart home technology space. Our 
 
 ## 4.0 Goals
 * Goals to be achieved (only the main one is required)
+
+![Image Description](https://github.com/amticianelli/AzureOAIProjectChallenge/blob/main/img/simple_appflow.png)
     ### 4.1 Main
     * Use the customer data to answer the questions based on his data only
     * After succeeding in answering the questions, use Copilot Designer to create a logo to the company and change it inside the chatbot
