@@ -58,4 +58,4 @@ Techtronics Inc. is a leading innovator in the smart home technology space. Our 
     * Publish the application to Kubernetes creating a manifest from scratch
 
 ## 5.0 Sending the result
-* Send a short video navigating to the chatbot application
+* Send a short video navigating to the chatbot application and share to <e-mail to be defined>
