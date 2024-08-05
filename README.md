@@ -16,7 +16,7 @@ Techtronics Inc. is a leading innovator in the smart home technology space. Our 
 
 ## 2.0 Business needs
 * Techtronics has all their products mapped, they have all the descriptions on their webside but the detailed technical information are inside pdf files.
-* Techtronics wants to automate their QnA about their products by using their PDFs
+* Techtronics wants to automate their QnA about their products by using their PDFs, they will make the Chat public available.
 
 ## 3.0 Requirements
 * Techtronics wants to use a simple Chatbot application
@@ -47,17 +47,19 @@ Techtronics Inc. is a leading innovator in the smart home technology space. Our 
 ## 4.0 Goals
 * Goals to be achieved (only the main one is required)
 
-![Image Description](https://github.com/amticianelli/AzureOAIProjectChallenge/blob/main/img/simple_appflow.png)
+    ![Image Description](https://github.com/amticianelli/AzureOAIProjectChallenge/blob/main/img/simple_appflow.png)
     ### 4.1 Main
     * Use the customer data to answer the questions based on his data only
     * After succeeding in answering the questions, use Copilot Designer to create a logo to the company and change it inside the chatbot
 
     ### 4.2 Extra
-    * The customer wants another solution to have their internal procedures answered in the same way, how can they add all of this to a private network? Show him using the main environment for this exercise as an example.
-    * Publish the application in Azure Apps
-
+    * Are the prompts accurate? What can be changed to achieve a better response?
+    * Publish the application in Azure App Services
+   
+    
     ## 4.3 Epic
-    * Publish the application to Kubernetes creating a manifest from scratch
+    * The customer want to know what are being asked in the application, so they can best enhance their clients' experience. Extend the application by storing the prompts in Azure Cosmos DB.
+
 
 ## 5.0 Sending the result
-* Send a short video navigating to the chatbot application and share to <e-mail to be defined>
+* Validation still TBD
